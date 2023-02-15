@@ -1,3 +1,6 @@
-asad =10 
 
-print(asad + 5)
+
+asad = 13
+
+print(asad+2)
+
