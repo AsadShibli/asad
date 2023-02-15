@@ -1,4 +1,4 @@
-hello , this is master part
+hello , this is slave part
 
 good
 
